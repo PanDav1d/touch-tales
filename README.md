@@ -2,7 +2,7 @@
 
 TouchTales is a creative messaging application that allows you to craft personalized messages and stories for your loved ones. Express yourself with a unique blend of text, images, and interactive gestures. For the best experience, use a mobile phone, especially iOS. Add the website to your Home Screen for an optimal experience.
 
-==Important:==
+#### **Important:**
 + TouchTales is still in developement and might not be fully optimized. There will be coming more options to customize the slides in the future.
 
 ![152shots_so](https://github.com/PanDav1d/touch-tales/assets/70289690/9c8d31c2-92da-4f70-85a8-33ecea3c4ff5)
