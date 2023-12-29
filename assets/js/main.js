@@ -70,7 +70,7 @@ function loadNextPhrase(){
 
 function loadLink(){
     link = all_data[currPhrase]["link"];
-    if(link == null){
+    if(link == null || link == ""){
         link_btn.style.opacity = 0;
         link_btn.style.pointerEvents = 'none';
         return;
