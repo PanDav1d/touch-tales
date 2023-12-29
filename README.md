@@ -11,3 +11,19 @@ TouchTales is a creative messaging application that allows you to craft personal
 - **Link Your Websites:** Easily add a link to a page to make your message even more personal, for example, a Spotify link.
 
 - **Emotional Connection:** Craft heartfelt messages with the touch of your fingertips, enhancing the emotional impact of your communication.
+
+## Enhance Your Text on Slides
+
+In TouchTales, you can use special Markdown syntax to make your text more visually appealing on slides. Here are some examples:
+
+- To ==highlight== text, use `==double equals==`.
+- To make text **bold**, use `**double asterisks**`.
+- Create a new paragraph with `\n`.
+
+### Example:
+
+```markdown
+==**Bold and Highlighted Text:**== This is an example of **bold and highlighted text** using special Markdown syntax.
+
+**New Paragraph:**
+This text is in a new paragraph.
