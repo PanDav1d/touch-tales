@@ -1,16 +1,16 @@
 [
   {
-    "text": "",
-    "bg-color": "",
-    "time": "",
+    "text": "Hey, \n my lovely friend. I want to say ==thank== you!",
+    "bg-color": "#9b00a3",
+    "time": "4000",
     "link": "",
-    "image": ""
+    "image": "../assets/content/images/image1.png"
   },
     {
-    "text": "",
-    "bg-color": "",
-    "time": "",
+    "text": "**Thank** you for you being by my side for so long.",
+    "bg-color": "#0d7037",
+    "time": "6000",
     "link": "",
-    "image": ""
+    "image": "../assets/content/images/image0.png"
   }
 ]
