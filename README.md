@@ -4,7 +4,7 @@ TouchTales is a creative messaging application that allows you to craft personal
 
 ## Features
 
-- **Interactive Canvas:** Swipe through your messages on a dynamic canvas, creating a personalized storytelling experience. Let messages stand out with simple Markdown.
+- **Interactive Canvas:** Swipe through your messages on a dynamic canvas, creating a personalized storytelling experience. Let messages stand out with simple Markdown. You can also decide when your loved ones should be able to swipe furhter by adding a timer.
 
 - **Media Integration:** Easily add images to your messages to make them visually appealing and meaningful. For better effects, use transparent PNG images and try to match the wallpaper with the images.
 
